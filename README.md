@@ -1,1 +1,2 @@
-Im working on fixing it I understand is that this iREADY nullify has some glitches so give me a few to fix em.
+I do understand that in some schools I.T staff has blocked inspect feature im working on making these scripts into a bookmark feature but for now give me a few to figure 
+out what I and my team should do.
